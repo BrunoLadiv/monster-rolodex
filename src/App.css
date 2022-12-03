@@ -10,3 +10,10 @@ body{
   -moz-osx-font-smoothing: grayscale;
   
 }
+.app-title{
+  margin-top: 75px;
+  margin-bottom: 50px;
+  font-size: 76px;
+  color: rgb(33, 202, 249);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
